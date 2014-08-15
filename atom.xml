@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://insanelygreattennis.github.io/atom.xml" rel="self"/>
-  <link href="http://insanelygreattennis.github.io/"/>
-  <updated>2014-08-15T04:11:06-07:00</updated>
-  <id>http://insanelygreattennis.github.io/</id>
+  <title><![CDATA[Insanely Great Tennis]]></title>
+  <link href="http://InsanelyGreatTennis.com/atom.xml" rel="self"/>
+  <link href="http://InsanelyGreatTennis.com/"/>
+  <updated>2014-08-15T04:17:56-07:00</updated>
+  <id>http://InsanelyGreatTennis.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[The Supersonic Fox (Mark Fussell)]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Site Launch!]]></title>
+    <link href="http://InsanelyGreatTennis.com/blog/site-launch/"/>
+    <updated>2014-06-07T18:15:00-07:00</updated>
+    <id>http://InsanelyGreatTennis.com/blog/site-launch</id>
+    <content type="html"><![CDATA[<p>We have been working on Insanely Great Tennis for some time, but today the site officially went live!</p>
+]]></content>
+  </entry>
   
 </feed>

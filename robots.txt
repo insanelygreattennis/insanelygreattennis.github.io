@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://insanelygreattennis.github.io/sitemap.xml 
+Sitemap: http://InsanelyGreatTennis.com/sitemap.xml 
